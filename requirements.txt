@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scipy
+sympy
+matplotlib
+plotly
+CoolProp
+idaes-pse
+
